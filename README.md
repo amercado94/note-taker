@@ -8,8 +8,8 @@ I created an application that allows you to make notes on your browser. You can 
 * [Link](#link)
 * [Questions](#questions)
 ## Screenshots:
-![Screenshot of my note taker homepage displaying a start button.](</Old-note-taker/public/assets/images/note-taker-ss01.png>)
-![Screenshot of my note taker displaying my notes and an space to add a new note.](</Old-note-taker/public/assets/images/note-taker-ss02.png>)
+![Screenshot of my note taker homepage displaying a start button.](</note-taker/public/assets/images/note-taker-ss01.png>)
+![Screenshot of my note taker displaying my notes and an space to add a new note.](</note-taker/public/assets/images/note-taker-ss02.png>)
 
 ## How to Use This Application:
 Nodejs, Javascript, Express, and Heroku.
